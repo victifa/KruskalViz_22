@@ -1,20 +1,17 @@
-
 interface node {
   id: string;
-  name: string;
   x: number;
   y: number;
 }
 
 interface edge {
-  from: string;
-  to: string;
+  from: node;
+  to: node;
   weight: number;
-  selected: boolean;
 }
 
-interface Graph {
-  nodes: node[];
-  edges: edge[];
-  selectedEdges: edge[];
+interface edge {
+  from: node;
+  to: node;
+  weight: number;
 }
