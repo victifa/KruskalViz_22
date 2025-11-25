@@ -101,7 +101,6 @@ pnpm build
 - On the screen, "currently processed edge" is highlighted, "selected edges" are shown in green, and "skipped edges" in gray.
 - The final MST is highlighted with thicker lines or distinct colors.
 
-------
 
 ## Future Plans
 
@@ -115,7 +114,6 @@ Potential future extensions include:
 - Enhanced **union-find visualization**: show parent pointers, rank, path compression
 - Responsive support (mobile/tablet)
 
-------
 
 ## Contributing
 
@@ -129,7 +127,6 @@ Contributions are welcome! To participate:
 
 Please maintain code style, add necessary comments, and include screenshots/demos for visual modifications.
 
-------
 
 ## License
 
