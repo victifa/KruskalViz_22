@@ -27,11 +27,11 @@
 
 ## 预览效果
 
-<img src="/preview/prev1.png" alt="自动演示" style="zoom:75%;" />
+![自动演示](./public/preview/prev1.png)
 
-![手动演示](/preview/prev2.png)
+![手动演示](./public/preview/prev2.png)
 
-![弹出提示](/preview/prev3.png)
+![弹出提示](./public/preview/prev3.png)
 
 
 

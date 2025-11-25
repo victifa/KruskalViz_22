@@ -29,11 +29,11 @@ When learning graph algorithms, especially minimum spanning tree algorithms, the
 
 ## Preview
 
-<img src="/preview/prev1.png" alt="Automatic Demo" style="zoom:75%;" />
+![Automatic Demo](./public/preview/prev1.png)
 
-![Manual Demo](/preview/prev2.png)
+![Manual Demo](./public/preview/prev2.png)
 
-![Popup Hint](/preview/prev3.png)
+![Popup Hint](./public/preview/prev3.png)
 
 
 ## Getting Started
