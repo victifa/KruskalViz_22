@@ -1,6 +1,6 @@
 # KruskalViz
 
-🌐 [中文](README.md) / [English ](README_en.md)/ [日本語（にほんご）](README_jp.md)🌐
+🌐 [简体中文](README.md) / [繁體中文](README_hant.md) / [English](README_en.md) / [日本語](README_jp.md) / [한국어](README_ko.md)🌐
 
 クラスカルアルゴリズム（最小生成木）の可視化デモツール。Vue3 を使用して構築されており、ノードの動的追加、辺の重み編集、最小生成木の生成過程のデモが可能です。アルゴリズム教育や学習、研究の参考に最適です。
 

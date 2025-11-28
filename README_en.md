@@ -1,6 +1,6 @@
 # KruskalViz
 
-🌐 [中文](README.md) / [English ](README_en.md)/ [日本語（にほんご）](README_jp.md)🌐
+🌐 [简体中文](README.md) / [繁體中文](README_hant.md) / [English](README_en.md) / [日本語](README_jp.md) / [한국어](README_ko.md)🌐
 
 A visualization tool for Kruskal's algorithm (Minimum Spanning Tree), built with Vue 3. It supports dynamic node addition, edge weight editing, and step-by-step MST demonstration. Suitable for algorithm teaching, learning, and research reference.
 

@@ -1,6 +1,6 @@
 # KruskalViz
 
-🌐 [中文](README.md) / [English ](README_en.md)/ [日本語（にほんご）](README_jp.md)🌐
+🌐 [简体中文](README.md) / [繁體中文](README_hant.md) / [English](README_en.md) / [日本語](README_jp.md) / [한국어](README_ko.md)🌐
 
 克鲁斯卡尔算法（最小生成树）可视化演示工具，使用 Vue3 构建，支持动态添加节点、编辑边权值、演示最小生成树生成过程。适合算法教学、学习与研究参考。
 
